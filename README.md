@@ -1,5 +1,5 @@
 # Huffman-File-Compression
----
+
 ### Usage: <br />
 
 make <br />
